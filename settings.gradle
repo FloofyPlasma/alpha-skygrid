@@ -1,0 +1,19 @@
+pluginManagement {
+    repositories {
+        maven {
+            name = 'Fabric'
+            url = 'https://maven.fabricmc.net/'
+        }
+        maven {
+            name = 'Babric'
+            url = 'https://maven.glass-launcher.net/babric'
+        }
+		maven {
+			name = 'Aabric'
+			url = 'https://floofyplasma.github.io/aabric-libraries'
+		}
+        mavenCentral()
+		mavenLocal()
+        gradlePluginPortal()
+    }
+}
