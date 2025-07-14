@@ -62,8 +62,6 @@ public class SkygridChunkGeneratorMixin {
             Block.DIAMOND_ORE.id,
             Block.DIAMOND_BLOCK.id,
             Block.CRAFTING_TABLE.id,
-            Block.WHEAT.id,
-            Block.FARMLAND.id,
             Block.FURNACE.id,
             Block.WOODEN_DOOR.id,
             Block.LADDER.id,
